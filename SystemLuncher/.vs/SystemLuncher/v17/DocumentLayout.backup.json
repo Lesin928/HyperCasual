@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|c:\\users\\lesin\\documents\\github\\hypercasual\\systemluncher\\assets\\scripts\\common\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|c:\\users\\lesin\\documents\\github\\hypercasual\\systemluncher\\assets\\scripts\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\assets\\scripts\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\assets\\scripts\\common\\singletonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|c:\\users\\lesin\\documents\\github\\hypercasual\\systemluncher\\assets\\scripts\\common\\singletonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\singletonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SceneLoader.cs",
-              "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\SceneLoader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\SceneLoader.cs",
-              "ToolTip": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\SceneLoader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Common\\SceneLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T02:56:45.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SingletonBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\SingletonBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\SingletonBehaviour.cs",
@@ -47,11 +30,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Common\\SingletonBehaviour.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T02:52:18.892Z"
+              "WhenOpened": "2025-05-28T02:52:18.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\Logger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Logger.cs",
