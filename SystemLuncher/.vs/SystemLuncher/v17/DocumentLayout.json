@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|c:\\users\\lesin\\documents\\github\\hypercasual\\systemluncher\\assets\\scripts\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\Logger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Logger.cs",
+              "ToolTip": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\Logger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\Logger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:40:18.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
