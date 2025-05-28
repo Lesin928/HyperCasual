@@ -30,6 +30,9 @@ MemoryCaptures/
 *.apk
 *.aab
 
+# Visual Studio local cache
+.vs/
+
 # Unity 빌드 중 생성되는 로그 및 디버그 파일
 *.log
 *.mdb
