@@ -1,0 +1,22 @@
+# C# 소스코드는 LF로 통일
+*.cs text eol=lf
+
+# 쉐이더 등도 LF로
+*.shader text eol=lf
+*.cginc text eol=lf
+
+# Unity 관련 텍스트 파일들은 자동으로 관리
+*.meta text
+*.unity text
+*.prefab text
+*.mat text
+*.anim text
+
+# 바이너리 파일은 자동 처리 안함
+*.png binary
+*.jpg binary
+*.fbx binary
+*.mp3 binary
+*.ogg binary
+*.wav binary
+*.dll binary
