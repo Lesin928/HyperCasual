@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|c:\\users\\lesin\\documents\\github\\hypercasual\\systemluncher\\assets\\scripts\\common\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|c:\\users\\lesin\\documents\\github\\hypercasual\\systemluncher\\assets\\scripts\\common\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|c:\\users\\lesin\\documents\\github\\hypercasual\\systemluncher\\assets\\scripts\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|c:\\users\\lesin\\documents\\github\\hypercasual\\systemluncher\\assets\\scripts\\common\\userdata\\userdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\userdata\\userdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\assets\\scripts\\common\\userdata\\usergoodsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\userdata\\usergoodsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\assets\\scripts\\common\\userdata\\usersettingsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\userdata\\usersettingsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\assets\\scripts\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\assets\\scripts\\common\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F07248EA-702E-9994-5D03-9E1068274F8F}|Assembly-CSharp.csproj|C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\assets\\scripts\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,37 +42,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSVReader.cs",
+              "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\CSVReader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\CSVReader.cs",
+              "ToolTip": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\CSVReader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\CSVReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:36:50.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UserDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\UserData\\UserDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\UserData\\UserDataManager.cs",
+              "ToolTip": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\UserData\\UserDataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\UserData\\UserDataManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:19:44.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserGoodsData.cs",
+              "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\UserData\\UserGoodsData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\UserData\\UserGoodsData.cs",
+              "ToolTip": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\UserData\\UserGoodsData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\UserData\\UserGoodsData.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:13:03.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSettingsData.cs",
+              "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\UserData\\UserSettingsData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\UserData\\UserSettingsData.cs",
+              "ToolTip": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\UserData\\UserSettingsData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\UserData\\UserSettingsData.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:12:54.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TitleManager.cs",
               "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Title\\TitleManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Title\\TitleManager.cs",
               "ToolTip": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Title\\TitleManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Title\\TitleManager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAewCkAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwCkAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T00:07:32.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T00:07:32.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\SceneLoader.cs",
               "ToolTip": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\SceneLoader.cs",
               "RelativeToolTip": "Assets\\Scripts\\Common\\SceneLoader.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T02:56:45.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T02:56:45.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SingletonBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\SingletonBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\SingletonBehaviour.cs",
@@ -68,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\Lesin\\Documents\\GitHub\\HyperCasual\\SystemLuncher\\Assets\\Scripts\\Common\\Logger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\Logger.cs",

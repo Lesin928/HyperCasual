@@ -40,7 +40,7 @@ public class TitleManager : MonoBehaviour
         Title.SetActive(true);
 
         m_AsyncOperation = SceneLoader.Instance.LoadSceneAsync(SceneType.Lobby);
-        if(m_AsyncOperation == null)
+        if (m_AsyncOperation == null)
         {
             Logger.Log("Lobby async loading error.");
             yield break;
@@ -56,14 +56,14 @@ public class TitleManager : MonoBehaviour
         LoadingProgressTxt.text = $"{(int)(LoadingSlider.value * 100)}%";
         yield return new WaitForSeconds(0.5f);
 
-        while(!m_AsyncOperation.isDone) //로딩이 진행 중일 때 
+        while (!m_AsyncOperation.isDone) //로딩이 진행 중일 때 
         {
             //로딩 슬라이더 업데이트
             LoadingSlider.value = m_AsyncOperation.progress < 0.5f ? 0.5f : m_AsyncOperation.progress;
             LoadingProgressTxt.text = $"{(int)(LoadingSlider.value * 100)}%";
 
             //씬 로딩이 완료되었다면 로비로 전환하고 코루틴 종료
-            if(m_AsyncOperation.progress >= 0.9f)
+            if (m_AsyncOperation.progress >= 0.9f)
             {
                 m_AsyncOperation.allowSceneActivation = true;
                 yield break;
